@@ -1,0 +1,6 @@
+
+
+window.setInterval(function(){
+  viewholder.closeit();
+}, 2000);
+
